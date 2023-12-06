@@ -3,7 +3,7 @@ import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import { widthPercentageToDP as wp, heightPercentageToDP as hp } from 'react-native-responsive-screen';
 
 const showconsole = ()=>{
-  console.log('privet')
+  console.log('privetsdfgh')
 }
 
 export default function App() {
